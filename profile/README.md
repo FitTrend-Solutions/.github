@@ -1,12 +1,10 @@
-## Will Update soon 👋
+<h2 align="center">
+SimplyVitals.app
+</h2>
 
-<!--
+![screenshot](https://res.cloudinary.com/shinkirin/image/upload/v1692220650/fittrend/simplyvitalsapp-photo.jpg)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Info:
+SimplyVitals.app is a simplified user-friendly health tracking app to help users share their health information easier with health professionals, trainers, dietitians, and even with friends.<br>
+<br>
+- Website: [https://simplyvitals.app](simplyvitals.app).
